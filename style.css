@@ -3,7 +3,72 @@ body {
 }
 h1 {
 	color:#972828;
+	text-align: center;
+	font-size: 50pt;
+	font-weight: bold;
+	font-family: sans-serif;
+	font-style: italic;
 }
 p {
 	color:#2D0000;
+	background-color: #FDF4D2;
+	padding: 0.9em;
+	margin: auto;
+	margin-bottom: 1em;
+	text-align: center;
+	border: 2px solid #A290B7;
+	width: 50%;
+	min-width: 30em;
+	font-family: sans-serif;
+}
+
+.right {
+	text-align: right;
+}
+.center {
+	text-align: center;
+}
+.left {
+	text-align: left;
+}
+.whited{
+	color:#F7F2EB;
+}
+
+.bgdred{
+	background-color:#830000;
+}
+.bgblue{
+	background-color:#425B9A;
+}
+.bgpurple{
+	background-color:#AB03A9;
+}
+.bggreen{
+	background-color:#8B9A6E;
+}
+.bgpink{
+	background-color:#FFBEFB;
+}
+.bgbrown{
+	background-color:#5E3122;
+}
+.bglava{
+	background-color:#FF9100;
+}
+.bgkrem	{
+	background-color:#F9D2BA;
+}
+.bgsky{
+	background-color:#92EEFF;
+}
+
+
+div {
+	text-align: center;
+}
+
+a {
+	color:#A82020;
+	text-decoration:none;
 }
